@@ -35,7 +35,7 @@ This repository includes plugin development templates for:
 2. Clone the repository and install dependencies
 3. Develop your plugin following the template
 4. Test your plugin
-5. Publish to [Space Platform](https://space.key123.vip/)
+5. Publish to [Space Platform](https://space.key123.vip?software=StreamDock&client=VSDCraft&lang=en)
 
 ## 📚 Documentation
 
@@ -56,7 +56,7 @@ To quickly get started developing plugins using the templates in this repository
 
 ## 🎯 Plugin Publishing
 
-Completed plugins can be published to the [Space Platform](https://space.key123.vip/) to share your creation with more users.
+Completed plugins can be published to the [Space Platform](https://space.key123.vip?software=StreamDock&client=VSDCraft&lang=en) to share your creation with more users.
 
 ## 🤝 Contributing
 
