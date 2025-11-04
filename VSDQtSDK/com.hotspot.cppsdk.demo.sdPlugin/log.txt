@@ -1,0 +1,2 @@
+[2025-09-05 17:04:09] ..\..\SDK\Logger.cpp Socket error: The remote host closed the connection
+[2025-09-05 17:04:09] ..\..\SDK\Logger.cpp Socket disconnected: The remote host closed the connection

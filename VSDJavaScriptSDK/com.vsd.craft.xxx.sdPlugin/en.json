@@ -1,0 +1,10 @@
+{
+  "Name": "Plugin Name",
+  "Description": "Plugin Description",
+  "com.hotspot.streamdock.xxx.action1": {
+    "Name": "action name",
+    "Tooltip": "action tooltip"
+  },
+  "Category": "Plugin Name",
+  "Localization": {}
+}

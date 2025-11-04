@@ -1,0 +1,85 @@
+{
+  "Actions": [
+    {
+      "UUID": "com.mirabox.streamdock.time",
+      "Icon": "static/img/App-logo.png",
+      "state": 0,
+      "States": [
+        {
+          "TitleAlignment": "bottom",
+          "FontSize": "11",
+          "Image": "static/img/App-logo.png"
+        },
+        {
+          "TitleAlignment": "center",
+          "FontSize": "16",
+          "Image": "static/img/icon.png"
+        }
+      ],
+      "Settings": {},
+      "UserTitleEnabled": false,
+      "SupportedInMultiActions": false,
+      "Controllers": [
+        "Keypad",
+        "Information",
+        "Knob"
+      ],
+      "Name": "Time",
+      "Tooltip": "Time",
+      "PropertyInspectorPath": "./propertyInspector/time/index.html"
+    },
+    {
+      "UUID": "com.mirabox.streamdock.custom",
+      "Icon": "static/img/App-logo.png",
+      "state": 0,
+      "States": [
+        {
+          "TitleAlignment": "bottom",
+          "FontSize": "16",
+          "Image": "static/img/App-logo.png"
+        },
+        {
+          "TitleAlignment": "center",
+          "FontSize": "11",
+          "Image": "static/img/icon.png"
+        }
+      ],
+      "Settings": {},
+      "UserTitleEnabled": false,
+      "SupportedInMultiActions": false,
+      "Controllers": [
+        "Keypad",
+        "Information",
+        "Knob"
+      ],
+      "Name": "custom",
+      "Tooltip": "custom",
+      "PropertyInspectorPath": "./propertyInspector/custom/index.html"
+    }
+  ],
+  "Version": "0.0.1",
+  "Name": "Python Time",
+  "Icon": "static/img/App-logo.png",
+  "CategoryIcon": "static/img/App-logo.png",
+  "Category": "Python Time",
+  "Description": "Time",
+  "CodePath": "DemoPlugin.exe",
+  "SDKVersion": 1,
+  "Author": "MiraBox",
+  "URL": "https://mirabox.key123.vip/",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "7"
+    }
+  ],
+  "ApplicationsToMonitor": {
+    "windows": [
+      "Spotify.exe"
+    ]
+  }
+}
